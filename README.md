@@ -3,6 +3,7 @@
 
  This project focuses on building a Machine Learning pipeline to detect phishing websites and enhance network security. Phishing attacks are one of the most common cyber threats,and     this project leverages data analysis, feature engineering, and classification models to identify phishing attempts effectively.
 
+
 ## Objectives
 
    Perform Exploratory Data Analysis (EDA) on phishing website dataset.
@@ -14,7 +15,9 @@
    Provide a reproducible and scalable solution for real-world deployment.
 
 
-### Network Security Projects For Phising Data
+
+
+## Network Security Projects For Phising Data
 
 Setup github secrets:
 AWS_ACCESS_KEY_ID=
@@ -44,3 +47,4 @@ sudo usermod -aG docker ubuntu
 
 
 newgrp docker
+
